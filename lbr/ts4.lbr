@@ -184,7 +184,7 @@
 </symbols>
 <devicesets>
 <deviceset name="TS4">
-<description>subminiature toggle switch, 5mm panel drill, like https://www.salecom.com/en/product/Toggle-Switches/ts-4.html</description>
+<description>subminiature toggle switch, 5mm panel drill, like https://www.salecom.com/en/product/Toggle-Switches/ts-4.html  - drill holes allow using both solder lugs and PCB pins</description>
 <gates>
 <gate name="G$1" symbol="KS-U" x="-2.54" y="0"/>
 </gates>
